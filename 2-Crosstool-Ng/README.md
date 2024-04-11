@@ -49,4 +49,4 @@ Binutils are a collection of binary utilities, including programs for assembling
 - **Cross-Compilation**: Binutils can be configured and built to target specific architectures, enabling cross-compilation for different platforms.
 
 ## Conclusion:
-By customizing the ARM toolchain and understanding the sysroot and binutils, developers can create efficient and optimized software for ARM-based embedded systems. This setup enables seamless cross-compilation, ensuring compatibility and performance for target devices.
+By customizing the ARM toolchain and understanding the sysroot and binutils, developers can create efficient and optimized software for ARM-based embedded systems. This setup enables seamless cross-compilation, ensuring compatibility and performance for target devices .
