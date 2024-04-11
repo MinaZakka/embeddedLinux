@@ -88,7 +88,7 @@ The objective of this task is to add a custom package containing a simple "Hello
 
 ---
 ## Prepare Your Package Source:
-Create a directory for your package source, e.g., `my_package` under ~/buildroot-2024.02/packages:
+Create a directory for your package source, e.g., `my_package` under ~/buildroot-2024.02/package:
 ```bash
 mkdir my_package ~/buildroot-2024.02/package
 ```
